@@ -1,4 +1,4 @@
-# ⚡ ANIMESH THARU // ULTRA ELITE PROFILE
+# ⚡ ANIMESH CHAUDHARY
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Bug+Hunter+%F0%9F%90%9E;Backend+Builder;UI+Craftsman;Nepal+%F0%9F%87%B3%F0%9F%87%B5+Developer;Turning+Ideas+Into+Reality" />
