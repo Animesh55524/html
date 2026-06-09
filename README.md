@@ -4,45 +4,56 @@
 ---
 
 🧠 SYSTEM STATUS
+
 STATUS      : ONLINE 🟢
+
 ROLE        : FULL STACK DEVELOPER
+
 FOCUS       : WEB + BACKEND + AUTOMATION
+
 LOCATION    : NEPAL 🇳🇵
+
 MODE        : BUILD > BREAK > FIX > IMPROVE
+
 MINDSET     : ENGINEERING EVERYTHING
 
 ---
 
 ⚙️ TECH STACK
+
 💻 CORE
+
 HTML5
+
 CSS3
+
 JavaScript (ES6+)
+
 Python
 
 ---
 
 🧠 BACKEND / TOOLS
+
 Flask
+
 Node.js
+
 Git & GitHub
+
 REST APIs
+
 MySQL / SQLite
 
 ---
 
 📊 GITHUB NEXUS ANALYTICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Animesh55524&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh55524&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh55524&theme=tokyonight&hide_border=true" height="180"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh55524&theme=tokyonight&hide_border=true" height="180"/> </p>
 
 ---
 
 🐍 CONTRIBUTION MATRIX
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
-
----
-
-🏆 ACHIEVEMENTS UNLOCKED
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Animesh55524&theme=matrix&no-frame=true&row=2&column=6" /> </p>
 
 ---
 
@@ -52,18 +63,27 @@ MySQL / SQLite
 ---
 
 🚀 PROJECT ARCHITECTURE
+
 Hotel Booking System → Flask + JS + HTML + CSS → ACTIVE
+
 Payment Gateway UI → HTML + JS → TESTING
+
 Portfolio Website → HTML + CSS + JS → DEPLOYED
+
 Bug Finder Tools → Python → DEVELOPMENT
 
 ---
 
 🌐 DIGITAL CONNECTIONS
+
 📧 Email: tharuanimesh@gmail.com
+
 🐙 GitHub: https://github.com/Animesh55524
+
 💼 Portfolio: coming soon
+
 🌍 Status: Open to collaboration
+
 💡 DEV PHILOSOPHY
 
 “Break things. Understand them. Rebuild better.”
